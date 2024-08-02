@@ -18,5 +18,5 @@ The script will output the status of each hash checked, indicating whether it wa
 ## Usage
 
 ```powershell
-python win-iso-checker.py "D:\WindowsImages"
+python isochecker.py "D:\WindowsImages"
 ```
