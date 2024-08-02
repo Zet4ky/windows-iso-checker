@@ -13,7 +13,7 @@ The script will output the status of each hash checked, indicating whether it wa
 1. Install python for your system from https://www.python.org/downloads/
 2. Clone the repository or download the script.
 3. Install requests lib with `pip install requests`)
-4. run the script with `python checker.py [directory]`
+4. run the script with `python isochecker.py [directory]`
 
 ## Usage
 
