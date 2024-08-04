@@ -20,3 +20,7 @@ The script will output the status of each hash checked, indicating whether it wa
 ```powershell
 python isochecker.py "D:\WindowsImages"
 ```
+Tip: you can use redirects to store the data in a text file for a more clear view of the results
+```powershell
+python isochecker.py "D:\WindowsImages" > isocheck.txt
+```
